@@ -8,7 +8,7 @@ import java.util.List;
 import org.junit.jupiter.api.Test;
 
 /**
- * @Params Se ocupara para solamente probar la entrada de datos tipo double y que pudieran devolver un promedio.
+ * @Params Se ocupara para prueba de datos tipo double y que mediante una operacion matematica devuelve promedio.
  */
 public class PromedioServicioImpTest {
 
